@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TowerOfHanoi
+comment1.params=xPosition\ yPosition
+comment1.target=TowerOfHanoi(int,\ int)
+comment2.params=xPosition\ yPosition
+comment2.target=void\ crearDiscos(int,\ int)
+comment3.params=
+comment3.target=void\ makeVisible()
+comment4.params=
+comment4.target=void\ makeInvisible()
+comment5.params=fromColumn
+comment5.target=Rectangle\ pop(int)
+comment6.params=disc\ toColumn
+comment6.target=void\ push(Rectangle,\ int)
+comment7.params=fromColumn\ toColumn
+comment7.target=void\ moveDisc(int,\ int)
+comment8.params=
+comment8.target=void\ updateDiscPositions()
+numComments=9
